@@ -9,7 +9,7 @@ This project is an **AI-powered news summarization tool** that takes a news arti
 - 📌 **User-friendly UI built with Gradio**
 
 ---
-![Medical Advice Engine Diagram]()
+![Medical Advice Engine Diagram](news.PNG)
 
 
 ## 📂 Project Structure
