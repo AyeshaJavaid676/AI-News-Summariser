@@ -9,7 +9,16 @@ This project is an **AI-powered news summarization tool** that takes a news arti
 - 📌 **User-friendly UI built with Gradio**
 
 ---
-![Medical Advice Engine Diagram](news.PNG)
+
+## 🖥️ Screenshots & Demo
+
+Here’s how the app looks when running:
+
+![App Screenshot](news.PNG))
+
+**Live Demo:** [Try It Here](https://f7e17a82c3958cae38.gradio.live/)
+
+
 
 
 ## 📂 Project Structure
@@ -179,5 +188,7 @@ if __name__ == "__main__":
    - 📌 **Key takeaways** from the news.
    - 📌 **Category classification** (e.g., Politics, Science, Technology).
 
-
-
+Link for running the Application
+```
+https://f7e17a82c3958cae38.gradio.live/
+```
